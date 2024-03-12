@@ -18,7 +18,7 @@ We have used Artificial Neural Network(ANN), K-Nearest Neighbour(KNN) with Hyper
 Once the user inputs their information, the ML model searches from a dataset and displays the result.
 
 
-Datasets used in this application in taken from kaggle. 
+Datasets used in this application in taken from kaggle. The datasets used in this program has been attached in the repository herewith. 
 
 
 Python's tkinter GUI is used in creating the frontend part of this application.
