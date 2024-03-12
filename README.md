@@ -12,7 +12,7 @@ This projects aims at providing  a health-check application to the user. Using t
 ~ User's obesity rate 
 
 
-We have used Machine Learning models for predicting the results.
+We have used Artificial Neural Network(ANN), K-Nearest Neighbour(KNN) with Hypermeter tuning models for predicting the results.
 
 
 Once the user inputs their information, the ML model searches from a dataset and displays the result.
@@ -22,7 +22,7 @@ Datasets used in this application in taken from kaggle.
 
 
 Python's tkinter GUI is used in creating the frontend part of this application.
-
+The developed application can be converted into an executable file.
 
 
 
