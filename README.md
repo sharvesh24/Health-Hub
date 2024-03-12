@@ -36,5 +36,7 @@ Datasets used in this application in taken from kaggle. The datasets used in thi
 Python's tkinter GUI is used in creating the frontend part of this application.
 The developed application can be converted into an executable file.
 
+The working model and output screenshots are attached in this repository as Output.jpg-Output_9.jpg
+
 
 
