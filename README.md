@@ -14,6 +14,11 @@ This projects aims at providing  a health-check application to the user. Using t
 
 We have used Artificial Neural Network(ANN), K-Nearest Neighbour(KNN) with Hypermeter tuning models for predicting the results.
 The ML models for each is attached in the repository.
+Obesity_Model.py
+Heart_Disease_Model.py
+Diabetes_Model
+
+
 
 Once the user inputs their information, the ML model searches from a dataset and displays the result.
 
